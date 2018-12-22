@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { Helmet } from 'react-helmet'
 import '../style/SemanticBasic.scss'
+// import '../../leaflet/leaflet'
 
 class SemanticBasic extends Component {
   render() {

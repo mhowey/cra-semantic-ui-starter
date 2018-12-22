@@ -3,7 +3,6 @@ import HorizontalTabMenu from '../Menus/HorizontalTabMenu'
 import { Router } from '@reach/router'
 import TestComponent from '../TestComp'
 import Header from '../Layout/Header'
-import { Link } from '@reach/router'
 
 class DefaultLayout extends Component {
   render() {
